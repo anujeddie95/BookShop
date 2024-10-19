@@ -1,0 +1,15 @@
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\bin\Debug\net8.0\BookShop.Inftrastructure.deps.json
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\bin\Debug\net8.0\BookShop.Inftrastructure.dll
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\bin\Debug\net8.0\BookShop.Inftrastructure.pdb
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\bin\Debug\net8.0\BookShop.Domain.dll
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\bin\Debug\net8.0\BookShop.Domain.pdb
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\BookShop.Inftrastructure.csproj.AssemblyReference.cache
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\BookShop.Inftrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\BookShop.Inftrastructure.AssemblyInfoInputs.cache
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\BookShop.Inftrastructure.AssemblyInfo.cs
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\BookShop.Inftrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\BookShop.ECDCC3E5.Up2Date
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\BookShop.Inftrastructure.dll
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\refint\BookShop.Inftrastructure.dll
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\BookShop.Inftrastructure.pdb
+C:\Users\AnujEdema\source\repos\BookShop\BookShop.Inftrastructure\obj\Debug\net8.0\ref\BookShop.Inftrastructure.dll
